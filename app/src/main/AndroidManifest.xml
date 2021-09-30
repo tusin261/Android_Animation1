@@ -10,13 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Animation_transition">
         <activity
-            android:name=".activity_share_element1"
+            android:name=".activity_music"
             android:exported="true" />
         <activity
-            android:name=".activity_ex2"
-            android:exported="true" />
-        <activity
-            android:name=".activity_ex1"
+            android:name=".activity_list_item"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,8 +22,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".activity_share_element1"
+            android:exported="true" />
+        <activity
+            android:name=".activity_ex2"
+            android:exported="true" />
+        <activity
+            android:name=".activity_ex1"
             android:exported="true"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>

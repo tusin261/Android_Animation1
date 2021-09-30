@@ -5,8 +5,11 @@
       <map>
         <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/activity_ex1.xml" value="0.25" />
         <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/activity_ex2.xml" value="0.25" />
+        <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/activity_list_item.xml" value="0.178125" />
         <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/activity_main.xml" value="0.178125" />
+        <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/activity_music.xml" value="0.22" />
         <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/activity_share_element1.xml" value="0.178125" />
+        <entry key="..\:/Android_NangCao/Animation_transition/app/src/main/res/layout/item.xml" value="0.1921875" />
       </map>
     </option>
   </component>
